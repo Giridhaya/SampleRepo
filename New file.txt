@@ -1,2 +1,7 @@
+
+This is a new file added in feature1!
+
 This was edited in master directly after pull request on master
+
+This file was modified locally!
 

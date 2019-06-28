@@ -1,8 +1,0 @@
-New File is added now and change is tracked here
-
-feature1 is now added!
-
-Feature 1 is now changed again !
-
-feature 2 is now added locally!
-
